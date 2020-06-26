@@ -1,0 +1,25 @@
+{
+  "name": "@gravity-simulator/gravity-utils",
+  "version": "0.0.0",
+  "description": "Utility functions for gravity simulations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Le5tes/gravity-utils.git"
+  },
+  "keywords": [
+    "gravity"
+  ],
+  "author": "Tim Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Le5tes/gravity-utils/issues"
+  },
+  "homepage": "https://github.com/Le5tes/gravity-utils#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
