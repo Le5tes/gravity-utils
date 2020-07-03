@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Le5tes/gravity-utils#readme",
   "devDependencies": {
     "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "@gravity-simulator/gravity-resolver": "^0.0.9"
   }
 }
