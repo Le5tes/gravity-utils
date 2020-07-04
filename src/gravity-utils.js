@@ -1,4 +1,4 @@
-GravityFunctions = require('@gravity-simulator/gravity-resolver').GravityFunctions;
+const GravityFunctions = require('@gravity-simulator/gravity-resolver').GravityFunctions;
 
 function calculateCircularOrbit(body, centralBody, g = 1) {
     const distanceX = body.positionX - centralBody.positionX

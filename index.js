@@ -1,5 +1,3 @@
-GravityUtils = require('./src/gravity-utils')
+const GravityUtils = require('./src/gravity-utils')
 
-module.exports = {
-    calculateCircularOrbit: GravityUtils.calculateCircularOrbit
-}
+module.exports = GravityUtils;
